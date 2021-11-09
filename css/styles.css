@@ -104,7 +104,7 @@ color: var(--main-title-color)
 .title-one {
 font-weight: 900;
 font-size: 44px;
-line-height 1.36;
+line-height: 1.36;
 text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
@@ -188,7 +188,7 @@ height: 38px;
 left: 576px;
 top: 174px;
 
-background:var(--portfolio-button-color) 
+background:var(--portfolio-button-color); 
 border-radius: 4px;
 font-weight: 500;
 font-size: 16px;
